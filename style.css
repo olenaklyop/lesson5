@@ -9,7 +9,7 @@ a[href$="#"] {
   margin: 0px 1400px 0px 0px;
   padding: 10px;
   background-color: rgb(66, 187, 239);
-  border: 1px solid blue;
+  border: 1px solid rgb(154, 31, 119);
 }
 #apostrof {
   color: aliceblue;
