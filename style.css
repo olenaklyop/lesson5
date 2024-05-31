@@ -3,6 +3,7 @@ body {
 }
 a[href$="#"] {
   color: red;
+  font-size: medium;
 }
 .teg {
   margin: 0px 1400px 0px 0px;
